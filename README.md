@@ -1,6 +1,6 @@
 # 🏥 ConnectCareApp — Facility-Based Digital Health Platform
 
-**HealthApp** is a role-based digital health platform designed to connect **patients (clients)** with **clinicians**, **nutritionists**, and **counsellors** under a shared facility environment.
+**ConnectCare** is a role-based digital health platform designed to connect **patients (clients)** with **clinicians**, **nutritionists**, and **counsellors** under a shared facility environment.
 Each facility manages its own users, data, and billing status — enabling secure and private health management, communication, and tracking.
 
 ---
