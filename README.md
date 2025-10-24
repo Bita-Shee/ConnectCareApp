@@ -198,7 +198,7 @@ Building digital health platforms that empower both patients and healthcare team
 
 **© 2025 Sheryl Bita — All rights reserved.**
 
-This project (**HealthApp**) is proprietary software and is the intellectual property of **Sheryl Bita**.  
+This project (**ConnectCareApp**) is proprietary software and is the intellectual property of **Sheryl Bita**.  
 Unauthorized copying, modification, redistribution, or use of this software, in whole or in part, is strictly prohibited  
 without prior written permission from the author.
 
