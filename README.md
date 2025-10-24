@@ -192,4 +192,15 @@ Then open: **[http://localhost:5173](http://localhost:5173)**
 Full-Stack Developer | HealthTech Enthusiast
 Building digital health platforms that empower both patients and healthcare teams.
 
+---
+
+## 🛡️ License & Legal Notice
+
+**© 2025 Sheryl Bita — All rights reserved.**
+
+This project (**HealthApp**) is proprietary software and is the intellectual property of **Sheryl Bita**.  
+Unauthorized copying, modification, redistribution, or use of this software, in whole or in part, is strictly prohibited  
+without prior written permission from the author.
+
+For licensing or partnership inquiries, please contact: [bitasheryl@gmail.com]
 
